@@ -1,0 +1,1 @@
+./jsgif/gif.js
